@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css2?family=Koulen&family=Lobster&di');
+
+nav.menu-nav ul li.btn {
+    display: inline-block;
+  
+}
+
+
+nav.menu-nav ul li.btn{
+list-style-type:none ;
+text-align: center;
+
+}
+nav.menu-nav ul li.btn a{
+font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  
+
+    color:black;
+padding: 10px;
+margin: 70px;
+font-size: 20px;
+text-decoration: none;
+text-shadow: 5px;
+
+
+}
+nav.menu-nav ul li.btn:hover a {
+  text-align: center;
+    color: white;
+    background-color: black;
+    transition: 0.5s all;
+   
+}
+.buttons {
+    bottom: auto;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    color:black;
+    padding: 10px;
+    margin: 70px;
+    font-size: 20px;
+    text-decoration: none;
+    text-shadow: 5px;
+  
+    
+    
+}
+
+.txt {
+    text-align: center;
+    text-shadow: 3cm;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+/* **************IMAGE PRINCIPALE ************** */
+#imagePrincipale {
+    padding-top: 60px;
+    background: url(media/Jujutsu\ Kaisen\ Sukuna.jpg) no-repeat fixed 50% 50%;
+    background-size:cover;
+    height: 1123px;
+    
+    
+    }
+    h1  {   
+    font-family:'Koulen',cursive ;
+    text-align: center;
+    color: antiquewhite;
+    font-size: 6em;
+    margin-top: 40px;
+    text-shadow: 1px 3px 2px black;
+    }
+    #premierTrait {
+        height: 1px;
+        width: 25%;
+        margin: -3px auto;
+        background-color:antiquewhite;
+        text-shadow: 1px 3px 2px black;
+    
+    
+    }
+    h3 {
+     text-align: center;
+     color: antiquewhite;
+     font-size: 3em;
+     text-shadow: 1px 3px 2px black; }
+
+     .txt2 {
+        text-align: center;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        text-shadow: 1px 3px 2px black;
+        font-size: 3em;
+        color:beige;
+        
+     }
+     div.cinereousTable {
+        font-family: Impact, Charcoal, sans-serif;
+        border: 6px solid #000000;
+        background-color: #FFFFFF;
+        width: 100%;
+        text-align: center;
+      }
+      .divTable.cinereousTable .divTableCell, .divTable.cinereousTable .divTableHead {
+        border: 1px solid #948473;
+        padding: 4px 4px;
+      }
+      .divTable.cinereousTable .divTableBody .divTableCell {
+        font-size: 13px;
+      }
+      .divTable.cinereousTable .divTableHeading {
+        background: #948473;
+        background: -moz-linear-gradient(top, #afa396 0%, #9e9081 66%, #948473 100%);
+        background: -webkit-linear-gradient(top, #afa396 0%, #9e9081 66%, #948473 100%);
+        background: linear-gradient(to bottom, #afa396 0%, #9e9081 66%, #948473 100%);
+      }
+      .divTable.cinereousTable .divTableHeading .divTableHead {
+        font-size: 17px;
+        font-weight: bold;
+        color: #F0F0F0;
+        text-align: left;
+        border-left: 2px solid #948473;
+      }
+      .divTable.cinereousTable .divTableHeading .divTableHead:first-child {
+        border-left: none;
+      }
+      
+      .cinereousTable .tableFootStyle {
+        font-size: 8px;
+        font-weight: bold;
+        color: #F0F0F0;
+        background: #948473;
+        background: -moz-linear-gradient(top, #afa396 0%, #9e9081 66%, #948473 100%);
+        background: -webkit-linear-gradient(top, #afa396 0%, #9e9081 66%, #948473 100%);
+        background: linear-gradient(to bottom, #afa396 0%, #9e9081 66%, #948473 100%);
+      }
+      .cinereousTable .tableFootStyle {
+        font-size: 8px;
+      }
+      /* DivTable.com */
+      .divTable{ display: table; }
+      .divTableRow { display: table-row; }
+      .divTableHeading { display: table-header-group;}
+      .divTableCell, .divTableHead { display: table-cell;}
+      .divTableHeading { display: table-header-group;}
+      .divTableFoot { display: table-footer-group;}
+      .divTableBody { display: table-row-group;}  
